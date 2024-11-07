@@ -1,6 +1,6 @@
 # XM Report Downloader Bot
 
-**XM Report Downloader** es un bot de Telegram diseñado para descargar los informes de despacho y redespacho proporcionados por XM en Colombia. Este bot, desarrollado en **Node.js**, utiliza varias librerías para ofrecer un acceso ágil a los datos.
+**XM Report Downloader Bot (Automatización de Navegador)** es un bot de Telegram diseñado para descargar los informes de despacho y redespacho proporcionados por XM en Colombia mediante automatización de navegador. Este bot, desarrollado en *Node.js*, utiliza puppeteer para simular la navegación y obtener los datos directamente desde la interfaz web.
 
 ## Tabla de Contenidos
 - [Funcionalidades](#funcionalidades)
@@ -13,9 +13,9 @@
 
 ### Funcionalidades
 
-- Descarga rápida de informes de despacho y redespacho.
-- Comandos de fácil acceso en Telegram.
-- Automatización para mantener los datos actualizados.
+-Descarga rápida de informes de despacho y redespacho mediante la simulación de navegación web.
+-Automatización para mantener los datos actualizados desde la interfaz de usuario de XM.
+-Comandos de fácil acceso en Telegram.
 
 
 ### Dependencias
